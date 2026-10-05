@@ -14,7 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JoseeLessa)](https://github.com/stats-organization/github-stats-extended)
+
+<div align="center">
+  <img src="docs/appIcon.svg" width="100px" alt="GitHub Stats Extended Logo" />
+<a href="https://github-stats-extended.vercel.app/api?username=JoseeLessa">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=JoseeLessa&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=JoseeLessa&theme=light_github" />
+  </picture>
+</a>
+</div>
 <hr>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseeLessa/JoseeLessa/output/github-contribution-grid-snake-dark.svg">
