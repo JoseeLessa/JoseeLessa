@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="docs/appIcon.svg" width="100px" alt="GitHub Stats Extended Logo" />
-<a href="https://github-stats-extended.vercel.app/api?username=JoseeLessa">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=JoseeLessa&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api?username=JoseeLessa&theme=light_github" />
-  </picture>
-</a>
+  <a href="https://github-stats-extended.vercel.app/api?username=JoseeLessa">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api?username=JoseeLessa&theme=dark_github"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api?username=JoseeLessa&theme=light_github" />
+    </picture>
+  </a>
 </div>
 <hr>
 <picture align="center">
