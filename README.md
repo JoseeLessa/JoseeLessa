@@ -1,5 +1,7 @@
-## Olá 👋
+# José Otávio de Souza Lessa 🎲
 
+### 👽 Sobre mim
+Me chamo José, tenho 20 anos, sou natural de Vitória-ES e concluí meu ensino médio integrado ao técnico em Redes de Computadores pela EEEFM Almirante Barroso. Atualmente estou no quinto período de Sistemas de Informação pelo IFES - Campus Serra.
 <!--
 **JoseeLessa/JoseeLessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,32 +16,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-  <div>
-    <a href="https://github-stats-extended.vercel.app/api?username=JoseeLessa">
-      <picture>
-        <source
-          srcset="https://github-stats-extended.vercel.app/api?username=JoseeLessa&theme=dark_github"
-          media="(prefers-color-scheme: dark)"
-        />
-        <img src="https://github-stats-extended.vercel.app/api?username=JoseeLessa&theme=light_github" />
-      </picture>
-    </a>
-  </div>
-  <div>
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=JoseeLessa&langs_count=4&theme=dark_github"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoseeLessa&langs_count=4&theme=dark_github" alt="Top Langs" />
-    </picture>
-  </div>
-</div>
 <hr>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseeLessa/JoseeLessa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseeLessa/JoseeLessa/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoseeLessa/JoseeLessa/output/github-contribution-grid-snake.svg">
-</picture>
+
+### 🤖 Minhas estatísticas
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=JoseeLessa&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=JoseeLessa&theme=light_github" />
+  </picture>
+  &emsp; &emsp; &emsp;
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=JoseeLessa&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoseeLessa&langs_count=4&theme=dark_github" alt="Top Langs" />
+  </picture>
+</div>
+
+<br>
+
+### 🐍 Cobrinha
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseeLessa/JoseeLessa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseeLessa/JoseeLessa/output/github-contribution-grid-snake-light.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoseeLessa/JoseeLessa/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
