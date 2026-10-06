@@ -5,7 +5,7 @@
 
 Me chamo José, tenho 20 anos, sou natural de Vitória-ES e concluí meu ensino médio integrado ao técnico em Redes de Computadores pela EEEFM Almirante Barroso. Estou no quinto período de Sistemas de Informação pelo IFES - Campus Serra. 
 
-Atualmente estou estudando sobre engenharia de dados e desenvolvimento WEB, criando projetos utilizando Java e Python.
+Atualmente estou estudando sobre engenharia de dados e desenvolvimento WEB, criando projetos utilizando Java, MySQL, HTML5, PHP e Python.
 
 <hr>
 
